@@ -1,5 +1,7 @@
 # 📊 Flipkart Sales Dashboard – Power BI Project
+
 📊 Project Description
+
 This project presents an interactive sales analytics dashboard built using Power BI. The dashboard helps visualize important patterns and insights from the dataset in a clear and simple way. It allows users to quickly understand trends, compare performance, and explore data through easy-to-read visuals.
 
 ⚙️ Tech Stack
