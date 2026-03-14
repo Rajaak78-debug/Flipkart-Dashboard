@@ -56,5 +56,8 @@ Allow users to interact with the dashboard and filter data based on selected cat
 📑 Data-driven insights in one place
 
 6.Dashboard Screenshots/Demo
+
 https://github.com/Rajaak78-debug/Flipkart-Dashboard/blob/main/Snapsot%20of%20dashboard-1.png
+
+https://github.com/Rajaak78-debug/Flipkart-Dashboard/blob/main/Snapsot%20of%20dashboard-2.png
 
