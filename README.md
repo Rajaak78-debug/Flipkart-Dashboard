@@ -1,4 +1,4 @@
-# 📊 Flipkart Sales Dashboard – Power BI Project
+# 📊 Flipkart Sales Dashboard
 
 1.📊 Project Description
 
